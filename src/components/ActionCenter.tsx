@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { ChevronUp, Check, Star, AlertTriangle, CreditCard, Building, Minus, DollarSign, X } from 'lucide-react';
+import { CheckCircle, XCircle, Info, AlertTriangle, ChevronDown, ChevronRight, User, FileText } from 'lucide-react';
 
 interface ChecklistItem {
   id: string;
